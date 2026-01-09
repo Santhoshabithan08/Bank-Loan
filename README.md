@@ -1,3 +1,4 @@
+# Bank-Loan
 Bank loan data analysis using Excel, SQL, and Power BI to evaluate loan performance and credit risk.
 
 # Bank Loan Analysis
